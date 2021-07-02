@@ -2,7 +2,7 @@ from smartapi import SmartConnect
 import pandas as pd
 from pandas import ExcelWriter
 
-obj = SmartConnect(api_key="3UGR4i5t")
+obj = SmartConnect(api_key="8q3pqVJY")
 
 data = obj.generateSession("A545511","Kite@666")
 
