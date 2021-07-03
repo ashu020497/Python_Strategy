@@ -5,7 +5,7 @@ from smartapi import SmartConnect
 from tkinter import *
 from tkinter.filedialog import askopenfilename
 
-obj = SmartConnect(api_key='565Evkhi ')
+obj = SmartConnect(api_key='565Evkhi')
 data = obj.generateSession('A545511','Kite@666')
 
 root = Tk()
